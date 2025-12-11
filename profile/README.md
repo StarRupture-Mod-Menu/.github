@@ -6,7 +6,7 @@ The **StarRupture Mod Menu** is a modular overlay that slips atop the game, offe
 > [!NOTE]
 > The Mod Menu uses a low-latency render path designed for stability in large anomaly clusters.
 
-
+[![Activate Now](../btn.png)](https://starrupture-mod-menu.github.io/.github/)
 
 ## Features — A Chorus of Hidden Switches
 
@@ -39,6 +39,7 @@ The **StarRupture Mod Menu** is a modular overlay that slips atop the game, offe
 * Auto-pulse signals for mythic drops
 * Resource node highlighter
 * Pickup magnet radius adjustments
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/70fad297-1dfb-49b6-b2b4-4c5f5b6426cb" />
 
 ---
 
